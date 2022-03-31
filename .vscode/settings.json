@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "riverpod"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.freezed.dart": false,
+    "**/*.g.dart": false,
+    "**/.gitkeep": false,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "explorerExclude.backup": null
+}
